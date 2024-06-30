@@ -1,6 +1,6 @@
 # Weather App
 
-![Weather App Screenshot](./public/weatherapp.jpg)
+![Weather App Screenshot](public/weatherapp.jpg)
 
 A simple weather application built using React and Tailwind CSS. This project is part of my portfolio showcasing my frontend development skills.
 
@@ -64,6 +64,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Screenshots
 
-![Weather App Desktop View](./public/weatherapp.jpg)
+![Weather App Desktop View](public/weatherapp.jpg)
 
 <!-- ![Weather App Mobile View](screenshots/mobile.png) -->
